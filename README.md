@@ -1,4 +1,11 @@
-# cse210-ww-student-template
-Sem Cabrera Alvarado
+# CSE 210: Programming with Classes
+This repository contains my weekly progress and projects for the Object-Oriented Programming (OOP) course at BYU-Idaho.
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
+## Technologies Used
+- **C#** (100% of the project)
+- **.NET Framework**
+
+## Weekly Learning Milestones
+- **Week 07:** Developed an Exercise Tracking program implementing **Inheritance** and **Polymorphism**.
+- **Week 06:** Created 'Eternal Quest', a console application featuring goal management systems.
+- **Weeks 01-05:** Fundamentals of C# syntax, abstraction, and encapsulation.
